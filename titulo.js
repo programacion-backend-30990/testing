@@ -1,7 +1,8 @@
 const variable = 34
 
-console.log(variable)
-console.log(4444)
+let f = 64
+console.log(variable + f)
+console.log(5555)
 
-let newvar = variable + 54
-console.log(newvar)
+let newvar = variable + f
+console.log(newvar / 4)
