@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://arturoverbel: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@github.com/programacion-backend-30990/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programacion-backend-30990/testing/issues"
+  },
+  "homepage": "https://github.com/programacion-backend-30990/testing#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
